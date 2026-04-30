@@ -13,7 +13,7 @@ class ClaudeInsights < Formula
   on_macos do
     on_arm do
       url "https://github.com/infowhere-ai/claude-insights/releases/download/v1.0.0b1/claude-insights-macos-arm64"
-      sha256 "e551d38e7e2687032820f7cda846124f0057e0246f8e46ec26e75e45327a4df3"
+      sha256 "8905105da9222329928ad2a55ea3a6d4ec49ff7d6a3baadfa17f7df89ef17168"
     end
   end
 
