@@ -7,13 +7,13 @@
 class ClaudeInsights < Formula
   desc "Real-time dashboard for Claude Code sessions"
   homepage "https://github.com/infowhere-ai/claude-insights"
-  version "1.0.0b2"
+  version "1.0.0b3"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/infowhere-ai/claude-insights/releases/download/v1.0.0b2/claude-insights-macos-arm64"
-      sha256 "f70d1575a7cff6af3612a9de55c018cd785e4f33442c731a2cf911ed7c507ed3"
+      url "https://github.com/infowhere-ai/claude-insights/releases/download/v1.0.0b3/claude-insights-macos-arm64"
+      sha256 "5cc18c99bfad440122b4a768cf5342c87b1d40d141abe5e4d5c904cd55927515"
     end
   end
 
